@@ -31,10 +31,11 @@ Atualmente estudando HTML, CSS, JavaScript e Python.
 
 ## 📈 Estatísticas do GitHub
 
-<p align="center">
+<p align="center" style="display: flex; justify-content: center; gap: 20px;">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emanoel-simao&show_icons=true&theme=dracula&count_private=true&hide=prs" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanoel-simao&layout=compact&theme=dracula"/>
 </p>
+
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/emanoel-simao/emanoel-simao/output/github-contribution-grid-snake-dark.svg">
