@@ -13,7 +13,7 @@ Atualmente estudando HTML, CSS, JavaScript e Python.
 
 - 🎯 Foco em Front-End
 - 📍 Localização: Brasil
-- 📬 Contato: **emanoel.oliveira.simao@gmail.com**
+- 📬 Contato: **emanoeloliveirasimao@gmail.com**
 - 🌐 Meu portfólio: [Currículo Digital](https://emanoel-simao.github.io/curriculo-digital/)
 
 ---
