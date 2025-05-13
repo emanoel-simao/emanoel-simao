@@ -33,7 +33,7 @@ Atualmente estudando HTML, CSS, JavaScript e Python.
 
 <p align="center" style="display: flex; justify-content: center; gap: 20px;">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emanoel-simao&show_icons=true&theme=dracula&count_private=true&hide=prs" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanoel-simao&layout=compact&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanoel-simao&layout=compact&theme=dracula&cache_seconds=1800" />
 </p>
 
 
