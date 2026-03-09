@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Emanuel Oliveira Simão 👨‍💻</h1>
 
 <p align="center">
-  Desenvolvedor Front-end em formação | Apaixonado por tecnologia, design e aprendizado contínuo
+  Desenvolvedor Back-end em formação | Apaixonado por tecnologia, design e aprendizado contínuo
 </p>
 
 ---
@@ -9,7 +9,7 @@
 ## 🚀 Sobre mim
 
 Sou um desenvolvedor em crescimento, sempre buscando aprender novas tecnologias e aprimorar minhas habilidades.  
-Atualmente estudando HTML, CSS, JavaScript e Python.
+Atualmente estudando HTML, Banco de dados, CSS, JavaScript, Java, e Python.
 
 - 🎯 Foco em Front-End
 - 📍 Localização: Brasil
