@@ -31,12 +31,20 @@ Atualmente estudando HTML, Banco de dados, CSS, JavaScript, Java, e Python.
 
 ## 📈 Estatísticas do GitHub
 
+<div align="center">
+  <img height="180" src="https://github-stats-extended.vercel.app/api?username=emanoel-simao&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=emanoel-simao&layout=compact&theme=dark" alt="Linguagens mais usadas" />
+</div>
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/emanoel-simao/emanoel-simao/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/emanoel-simao/emanoel-simao/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/emanoel-simao/emanoel-simao/output/github-contribution-grid-snake.svg">
-</picture>
+<br>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/emanoel-simao/emanoel-simao/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/emanoel-simao/emanoel-simao/output/github-contribution-grid-snake.svg">
+    <img alt="Animação da cobrinha do GitHub" src="https://raw.githubusercontent.com/emanoel-simao/emanoel-simao/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
 ---
 
