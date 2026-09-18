@@ -11,7 +11,7 @@
 Sou um desenvolvedor em crescimento, sempre buscando aprender novas tecnologias e aprimorar minhas habilidades.  
 Atualmente estudando HTML, Banco de dados, CSS, JavaScript, Java, e Python.
 
-- 🎯 Foco em Front-End
+- 🎯 Foco em Back-End
 - 📍 Localização: Brasil
 - 📬 Contato: **emanoeloliveirasimao@gmail.com**
 - 🌐 Meu portfólio: [Currículo Digital](https://emanoel-simao.github.io/curriculo-digital/)
